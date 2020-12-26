@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-CS 351 - Artificial Intelligence 
-Assignment 3
-
-Student ID = sk03870
-"""
 
 import numpy as np
 import matplotlib.pyplot as plt
